@@ -40,4 +40,4 @@ Iter_Max=500;
 %% IR_SBL
   [w4,Iter_Num4]=IR_SBL(fx,y,lam1,Iter_Max);
 %%  VI_SBL
-  [w5]=VI_SBL(fx,y,10);
+  [w5]=VI_SBL(fx,y,1000);
